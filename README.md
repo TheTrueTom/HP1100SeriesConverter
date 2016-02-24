@@ -14,4 +14,5 @@
 ## License
 
 HP1100SeriesConverter is released under the [MIT License](LICENSE.md).
-HP1100SeriesConverter is not associated in any way to HP or Agilent
+
+HP1100SeriesConverter is not associated in any way to HP or Agilent.
