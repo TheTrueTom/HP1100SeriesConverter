@@ -1,5 +1,11 @@
 #HP 1100 Series Data Converter [![GitHub license](https://img.shields.io/dub/l/vibe-d.svg)](https://raw.githubusercontent.com/TheTrueTom/HP1100SeriesConverter/master/LICENCE) [![GitHub release](https://img.shields.io/github/release/TheTrueTom/HP1100SeriesConverter.svg)](https://github.com/TheTrueTom/HP1100SeriesConverter/releases/latest)
 
+### Building instructions
+
+- Make sure you have pyinstaller on your system
+- Navigate to the project's folder
+- Run the following command: pyinstaller 1100SeriesConverter.spec
+
 ### Instructions
 
 - Select a folder

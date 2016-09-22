@@ -3,10 +3,10 @@
 block_cipher = None
 
 
-a = Analysis(['converter.py'],
+a = Analysis(['src\\converter.py'],
              pathex=['C:\\Users\\Thomasb.000\\Documents\\Converter'],
              binaries=None,
-             datas=[('icon.ico', 'icon')],
+             datas=[('icns\\icon.ico', 'icon')],
              hiddenimports=[],
              hookspath=None,
              runtime_hooks=None,
@@ -25,4 +25,4 @@ exe = EXE(pyz,
           debug=False,
           strip=None,
           upx=True,
-          console=False , icon='icns\icon.ico')
+          console=False , icon='icns\\icon.ico')

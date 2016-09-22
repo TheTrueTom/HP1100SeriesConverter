@@ -1,1 +1,0 @@
-pyinstaller converter.py --onefile --name=1100SeriesConverter --noconsole --icon icon.ico
